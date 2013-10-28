@@ -1,0 +1,19 @@
+{
+  "name": "bicubic",
+  "description": "Bicubic interpolation - traditionally used for scaling up images or heightmaps",
+  "version": "0.0.0",
+  "main": "index.js",
+  "browser": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {},
+  "author": "Hugh Kennedy <hughskennedy@gmail.com> (http://github.com/hughsk)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hughsk/bicubic"
+  },
+  "bugs": {
+    "url": "https://github.com/hughsk/bicubic/issues"
+  }
+}
